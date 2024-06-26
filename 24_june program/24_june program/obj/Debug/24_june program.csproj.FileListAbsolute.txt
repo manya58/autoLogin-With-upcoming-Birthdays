@@ -1,0 +1,10 @@
+C:\Users\DeLL\source\repos\24_june program\24_june program\bin\Debug\24_june program.exe.config
+C:\Users\DeLL\source\repos\24_june program\24_june program\bin\Debug\24_june program.exe
+C:\Users\DeLL\source\repos\24_june program\24_june program\bin\Debug\24_june program.pdb
+C:\Users\DeLL\source\repos\24_june program\24_june program\obj\Debug\24_june program.csproj.AssemblyReference.cache
+C:\Users\DeLL\source\repos\24_june program\24_june program\obj\Debug\24_june program.csproj.CoreCompileInputs.cache
+C:\Users\DeLL\source\repos\24_june program\24_june program\obj\Debug\24_june program.exe
+C:\Users\DeLL\source\repos\24_june program\24_june program\obj\Debug\24_june program.pdb
+C:\Users\DeLL\source\repos\24_june program\24_june program\bin\Debug\Validation.dll
+C:\Users\DeLL\source\repos\24_june program\24_june program\bin\Debug\Validation.pdb
+C:\Users\DeLL\source\repos\24_june program\24_june program\obj\Debug\24_june .A33D936C.Up2Date
